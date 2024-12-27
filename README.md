@@ -1,9 +1,4 @@
 
-<!--
-**meslubi2021/meslubi2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 👋 Hi, I'm @meslubi2021
 - 👀 I'm interested in...
 - 🌱 I'm currently learning...
@@ -12,10 +7,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
 meslubi2021/meslubi2021 is a ✨ private ✨ repository because the `README.md` file (this one) appears in your GitHub profile.
-# GitHub Codespaces ♥️ Jupyter Notebooks
-
 Welcome to your shiny new codespace! We've got everything fired up and running for me .
 
 You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
