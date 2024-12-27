@@ -11,5 +11,4 @@
 meslubi2021/meslubi2021 is a ✨ private ✨ repository because the `README.md` file (this one) appears in your GitHub profile.
 Welcome to your shiny new codespace! We've got everything fired up and running for me .
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
 
