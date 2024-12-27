@@ -9,6 +9,6 @@
 - ⚡ Fun fact: 
 
 meslubi2021/meslubi2021 is a ✨ private ✨ repository because the `README.md` file (this one) appears in your GitHub profile.
-Welcome to your shiny new codespace! We've got everything fired up and running for me .
+✨ Welcome to the awesome code spaces! .
 
 
