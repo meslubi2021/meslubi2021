@@ -2,7 +2,7 @@
 - 👋 Hi, I' Billal Mesloub
 -  👋 Hi,my user name is meslubi2021
 - 👀 I'm interested inAll fields
-- 🌱 I'm currently learningAll fields
+- 🌱 I'm currently learning in All fields
 - 💞️ Looking for collaborations in...
 - 📫 How to reach mesloubi2021@gmail.com
 - 😄 Pronouns: ...
