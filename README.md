@@ -6,7 +6,7 @@
 - 💞️ Looking for collaborations in All fields
 - 📫 How to reach mesloubi2021@gmail.com
 - 😄 Pronouns: me
-- ⚡ Fun fact: 
+ 
 
 meslubi2021/meslubi2021 is a ✨ private ✨ repository because the `README.md` file (this one) appears in your GitHub profile.
 ✨ Welcome to the awesome code spaces!.
